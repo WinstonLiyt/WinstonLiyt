@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Winston</h1>
-<h3 align="center">A passionate computer science student from China</h3>
+<h3 align="center">A passionate Computer Science student from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winstonliyt&label=Profile%20views&color=0e75b6&style=flat" alt="winstonliyt" /> </p>
 
