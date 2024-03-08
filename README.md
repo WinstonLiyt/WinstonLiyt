@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Huangdu University of Science and Technology](https://www.tongji.edu.cn/)
 
-- 👯 I’m looking to collaborate on **Deep Learning**
+- 👯 I’m looking to collaborate on **Deep Learning**, **Reinforcement Learning**.
 
-- 🤝 I’m looking for help with **Quantitative**
+- 🤝 I’m interested in **Quantitative Finance**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
