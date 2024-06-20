@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Winston</h1>
+<h1 align="center">Hi 👋, I'm Winston Li</h1>
 <h3 align="center">A passionate Computer Science student from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winstonliyt&label=Profile%20views&color=0e75b6&style=flat" alt="winstonliyt" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Huangdu University of Science and Technology](https://www.tongji.edu.cn/)
 
-- 👯 I’m looking to collaborate on **Deep Learning**, **Reinforcement Learning**.
+- 👯 I’m looking to collaborate on **Deep Learning**, **Large Language Models**, **Reinforcement Learning**.
 
 - 🤝 I’m interested in **Quantitative Finance**.
 
