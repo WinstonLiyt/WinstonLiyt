@@ -1,4 +1,4 @@
-<h1 align="left">Hi, this is Yuante Li 👋</h1>
+<h1 align="left">Hi, this is Yuante 👋</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=winstonliyt&label=Profile%20views&color=0e75b6&style=flat" alt="winstonliyt" />
