@@ -11,7 +11,7 @@
 </p>
 
 - 🎓 I’m currently studying at [Tongji University](https://www.tongji.edu.cn/), Shanghai.
-- 📖 I'm interested in **Data Mining**, **Large Language Models**, **Time Series Models**, and **Quantitative Finance**.
+- 📖 I'm interested in **Data Mining**, **Large Language Models**, **Time Series Analysis**, and **Quantitative Finance**.
 - 🧐 I have also worked on various traditional CS projects, including [Unix Operation System](https://github.com/WinstonLiyt/SecFSystem), [C-based Compiler](https://github.com/WinstonLiyt/C-basedCompilerWithQt), [CPU Design](https://github.com/WinstonLiyt/Harvard-Architecture-MIPS-based-CPU-series), [Full Stack Web Development](https://github.com/WinstonLiyt/OceanBioDynamicsHub), [App Development](https://github.com/WinstonLiyt/WhereToEatAtTongji-Frontend), and [Game Development](https://github.com/WinstonLiyt/Brawlstars).
 
 <h3 align="left">Programming Languages</h3>
