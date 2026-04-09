@@ -6,11 +6,11 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=winstonliyt&row=2&column=4&margin-w=20&margin-h=15&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers,Experience,Issues" alt="winstonliyt" />
+    <img src="https://gh-trophy.cdnsoft.net/?username=winstonliyt&row=2&column=4&margin-w=20&margin-h=15&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers,Experience,Reviews" alt="winstonliyt" />
   </a>
 </p>
 
-- 📖 I'm interested in **Data Mining**, **Large Language Models**, **Time Series Analysis**, and **Quantitative Finance**.
+- 📖 I'm interested in **AI Scientist**, **Agentic System**, **LLM/NLP**, **Data Mining**, and **AI for Finance**.
 - 🧐 I have also worked on various traditional CS projects, including [**Unix Operating System**](https://github.com/WinstonLiyt/SecFSystem), [**C-based Compiler**](https://github.com/WinstonLiyt/C-basedCompilerWithQt), [**CPU Design**](https://github.com/WinstonLiyt/Harvard-Architecture-MIPS-based-CPU-series), [**Full Stack Web Development**](https://github.com/WinstonLiyt/OceanBioDynamicsHub), [**App Development**](https://github.com/WinstonLiyt/WhereToEatAtTongji-Frontend), and [**Game Development**](https://github.com/WinstonLiyt/Brawlstars).
 
 <h3 align="left">Programming Languages</h3>
@@ -82,6 +82,3 @@
     <img src="https://github.com/WinstonLiyt/WinstonLiyt/assets/104308117/14863d6e-b003-440f-b948-7560cc4e5700" alt="WeChat Mini Program" width="60" height="60" style="margin: 15px;"/>
   </a>
 </p>
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=winstonliyt&show_icons=true&locale=en" alt="winstonliyt" /></p>
